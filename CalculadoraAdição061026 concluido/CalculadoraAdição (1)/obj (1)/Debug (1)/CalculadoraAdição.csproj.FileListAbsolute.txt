@@ -1,0 +1,10 @@
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\bin\Debug\CalculadoraAdição.exe.config
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\bin\Debug\CalculadoraAdição.exe
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\bin\Debug\CalculadoraAdição.pdb
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.csproj.AssemblyReference.cache
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.Form1.resources
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.Properties.Resources.resources
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.csproj.GenerateResource.cache
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.csproj.CoreCompileInputs.cache
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.exe
+C:\Users\DB\Downloads\CalculadoraAdição051026-20261006T222650Z-1-001\CalculadoraAdição051026\CalculadoraAdição\obj\Debug\CalculadoraAdição.pdb
